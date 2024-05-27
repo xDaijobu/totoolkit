@@ -1,0 +1,48 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "totoolkit",
+            "cwd": "packages\\totoolkit",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "totoolkit (profile mode)",
+            "cwd": "packages\\totoolkit",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "totoolkit (release mode)",
+            "cwd": "packages\\totoolkit",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "totoolkit_example",
+            "cwd": "packages\\totoolkit\\totoolkit_example",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "totoolkit_example (profile mode)",
+            "cwd": "packages\\totoolkit\\totoolkit_example",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "totoolkit_example (release mode)",
+            "cwd": "packages\\totoolkit\\totoolkit_example",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        }
+    ]
+}
